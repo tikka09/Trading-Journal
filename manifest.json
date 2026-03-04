@@ -2,7 +2,7 @@
   "name": "TradeLog — Trading Journal",
   "short_name": "TradeLog",
   "description": "Personal intraday trading journal for Indian markets",
-  "start_url": "/",
+  "start_url": "/Trading-Journal/",
   "display": "standalone",
   "background_color": "#0a0e1a",
   "theme_color": "#00d4aa",
