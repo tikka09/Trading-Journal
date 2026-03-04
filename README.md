@@ -35,7 +35,7 @@ Click **Add file → Upload files** and drop all 3 files.
 ## 📱 Install on Your Phone (Android)
 
 1. Open **Chrome** on your Android phone
-2. Go to: `https://YOUR-USERNAME.github.io/tradelog`
+2. Go to: `https://tikka09.github.io/Trading-Journal/`
 3. Tap the **⋮ menu** → **Add to Home Screen**
 4. Tap **Add**
 5. TradeLog icon appears on your home screen — it's now an app! 🎉
