@@ -1,5 +1,5 @@
 const CACHE = "tradelog-v1";
-const ASSETS = ["/", "/index.html", "/manifest.json"];
+const ASSETS = ["/Trading-Journal/", "/Trading-Journal/index.html", "/Trading-Journal/manifest.json"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)));
